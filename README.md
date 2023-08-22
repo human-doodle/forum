@@ -1,6 +1,6 @@
 # HashTag - The University Social Networking App
 
-Welcome to HashTag, a social networking application designed exclusively for university students. HashTag offers a unique platform for connecting, sharing, and accessing essential resources relevant to university life.
+HashTag is a social networking application designed keeping university students in mind. HashTag offers a unique platform for connecting, sharing, and accessing essential resources relevant to university life.
 
 ## Uses
 
