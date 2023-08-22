@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          WorldVibe
+          HashTag
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
