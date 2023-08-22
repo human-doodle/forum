@@ -61,8 +61,24 @@ Welcome to HashTag, a social networking application designed exclusively for uni
 7. Run the backend server: `npm start`.
 
 ## Modelling
-![HashTag Model](Model_img.png)
+![HashTag Model](img/Model_img.png)
 
+## UI
+
+### Home Page
+![Home Page](img/homepage.png)
+
+### Home Page - dark Mode
+![Home dark Page](img/Darkmode.png)
+
+### Login Page 
+![Login Page](img/LoginPage.png)
+
+### Register Page
+![Register Page](img/RegisterPage.png)
+
+### User Profile 
+![Profile Page](img/serProfilepage.png)
 
 ## Ongoing Improvements
 
