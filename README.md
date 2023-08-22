@@ -78,7 +78,7 @@ Welcome to HashTag, a social networking application designed exclusively for uni
 ![Register Page](img/RegisterPage.png)
 
 ### User Profile 
-![Profile Page](img/serProfilepage.png)
+![Profile Page](img/UserProfilepage.png)
 
 ## Ongoing Improvements
 
